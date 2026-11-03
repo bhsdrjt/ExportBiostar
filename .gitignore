@@ -1,0 +1,12 @@
+bin/
+obj/
+publish/
+publish-*/
+.env
+.env.*
+*.user
+*.suo
+*.zip
+*.partial
+*.csv
+*-schema-*.json
